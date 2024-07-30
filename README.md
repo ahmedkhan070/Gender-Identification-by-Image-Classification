@@ -37,8 +37,3 @@ The dataset consists of images categorized into 'Male' and 'Female' subdirectori
 * Detailed code explanations and comments will be included in the code.
 * Specific hyperparameters and training configurations will be documented.
 
-**Contact**
-
-[Your Name]
-[Your Email]
-[Your GitHub Profile]
